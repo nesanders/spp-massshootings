@@ -2,7 +2,7 @@
 
 ## By Nathan Sanders and Victor Lei
 
-The python script in this repository generates all analysis, visualizations, and statistics quoted in the forthcoming paper "The Role of Prior Information in Inference on the Annualized Rates of Mass Shootings in the United States" to appear in the journal Statistics & Public Policy.  The file "gp_model_final.stan" defines the Gaussian process statistical model used in the paper.  A static copy of the source dataset, transformed data to be fed to the model, and intermediate stochastic sampling outputs are also shared in this repository.
+The python script in this repository generates all analysis, visualizations, and statistics quoted in the paper "The Role of Prior Information in Inference on the Annualized Rates of Mass Shootings in the United States" [published in the journal Statistics & Public Policy in April of 2018](https://amstat.tandfonline.com/doi/full/10.1080/2330443X.2018.1448733).  The file "gp_model_final.stan" defines the Gaussian process statistical model used in the paper.  A static copy of the source dataset, transformed data to be fed to the model, and intermediate stochastic sampling outputs are also shared in this repository.
 
 A [preprint of the paper](https://github.com/nesanders/spp-massshootings/blob/master/Sanders_SPP_MassShootings.pdf) is also available here.
 
